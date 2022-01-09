@@ -1,9 +1,10 @@
 import React from 'react';
+import Form from './components/form/form';
 
 function App() {
   return (
-    <div className="text-center">
-      Happy hacking
+    <div className="">
+      <Form />
     </div>
   );
 }
